@@ -29,7 +29,7 @@
 
    // add address markers
    map.addMarker({ lat: 52.384600, lng: 4.886394, title: 'Studio',
-   infoWindow: { content: '<p>2πR GReek Dances, Studio</p>' } });
+   infoWindow: { content: '<p>2πR Greek Dances<br><a href="http://kaouthar.com/contact/dance-studio-for-rent-in-amsterdam/">Studio</a><br>Tussen de bogen 46, Amsterdam</p>' } });
 
 /*----------------------------------------------------*/
 /*	contact form

@@ -184,7 +184,7 @@ ul#nav li.active a { color: #11ABB0; }
 /* ================================================================== */
 
 #intro {
-   background: #111 url(../images/intro-bg.jpg) no-repeat center;
+   background: #111 url(../images/logo-letters.png) no-repeat center;
    overflow: hidden;
 }
 
@@ -477,6 +477,14 @@ ul#nav li.active a { color: #11ABB0; }
    font-family: montserrat-bold, sans-serif;
    text-transform: uppercase;
    letter-spacing: 1px;
+}
+
+#share-buttons img {
+width: 35px;
+padding: 5px;
+border: 0;
+box-shadow: 0;
+display: inline;
 }
 
 /* post content */
@@ -1604,6 +1612,3 @@ footer .social-links li:first-child { margin-left: 0; }
    }
 
 }
-
-
-

@@ -615,6 +615,45 @@ display: inline;
    font-size: 14px;
 }
 
+/* ================================================================== */
+
+/* d. Registration
+
+/* ================================================================== */
+
+#registration {
+   background: #1b1e21;
+   padding-top: 156px;
+   padding-bottom: 120px;
+   color: #4E565F;
+}
+
+#registration a, #registration a:visited  { color: #11ABB0; }
+#registration a:hover, #registration a:focus { color: #11ABB0; }
+
+#registration .section-head h2 { color: #11ABB0; }
+#registration .section-head p.desc,
+#registration .section-head .intro { color: #57606B; }
+
+.registration-wrapper { margin-top: 42px; }
+.registration-wrapper .col {
+   width: 33.33333%;
+   margin-bottom: 30px;
+}
+.registration-wrapper h2 {
+   font: 16px/24px montserrat-bold, sans-serif;
+   letter-spacing: 1.5px;
+   text-transform: uppercase;
+   color: #C4C4C4;
+   margin-bottom: 18px;
+}
+.registration-wrapper p {
+   font-size: 16px;
+   line-height: 30px;
+}
+#registration .registration-wrapper i { margin-right: 10px; }
+
+
 
 /* ================================================================== */
 
